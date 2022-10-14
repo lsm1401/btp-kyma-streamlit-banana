@@ -11,3 +11,4 @@ https://towardsdatascience.com/keras-transfer-learning-for-beginners-6c9b8b7143e
 https://hackernoon.com/classifying-images-using-tensorflow-js-keras-58431c4df04
 https://github.com/tensorflow/tfjs-examples/tree/master/mobilenet
 https://docs.streamlit.io/knowledge-base/tutorials/deploy/docker
+https://discovery-center.cloud.sap/protected/index.html#/missiondetail/3700/3743/
