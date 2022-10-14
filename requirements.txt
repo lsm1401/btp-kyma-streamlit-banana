@@ -1,0 +1,8 @@
+tensorflow==2.9.1
+streamlit
+numpy==1.22.3         
+pillow==9.2.0
+Flask==2.1.1
+keras==2.9.0
+scipy==1.7.3
+matplot

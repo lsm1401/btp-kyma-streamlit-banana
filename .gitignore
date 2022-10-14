@@ -1,0 +1,6 @@
+# Dockerfile
+.dockerignore
+# *.jpeg
+model_chkpt/
+model_output
+
