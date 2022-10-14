@@ -1,2 +1,2 @@
 # btp-kyma-streamlit-banana
-deploy ML inference pipeline with SAP BTP Kyma and streamlit
+Deploy Machine Learning Models in Kubernetes with SAP BTP, Kyma Runtime with streamlit
